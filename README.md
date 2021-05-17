@@ -1,5 +1,6 @@
 # Spacenture - A 2D platformer game
 # Link to a game: https://fontys-gdt.itch.io/spacenture
+# Link to a DevLog: https://leecammdev.tumblr.com/tagged/myowngame
 
 A space-themed, 2D platformer game with parkour 
 elements and enemies which the player can fight. 
